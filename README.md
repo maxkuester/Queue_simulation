@@ -1,2 +1,2 @@
-# Queue_simulation
-Simulating a queue with abandoning behaviour and multiple servers 
+# Simulations
+## A collection of different types of simulations.
